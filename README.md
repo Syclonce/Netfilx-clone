@@ -4,7 +4,7 @@
 Features:
 
 - Environment, Typescript, NextJS Setup
-- MongoDB & Prisma connect, Database creation
+- MariangoDB & Prisma connect, Database creation
 - Authentication with NextAuth, Google & Github Login
 - Full responsiveness on all pages
 - Cookie based authentication
